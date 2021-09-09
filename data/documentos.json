@@ -1,0 +1,7 @@
+[
+    {"tipo": "DNI"},
+    {"tipo": "NIE"},
+    {"tipo": "Pasaporte"},
+    {"tipo": "CIF"},
+    {"tipo": "Tarjeta Residencia"}
+]

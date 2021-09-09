@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+
+}
+
+form{
+    font-family: serif;
+    padding-left: 48rem;
+    width: 25rem;
+}
+
+form fieldset{
+    border-radius: 20px;
+}
+
+h4{
+    text-align: center;
+}
+
+button{
+    background-color: rgb(67, 200, 67);
+    color: white;
+    width: 25%;
+    height: 30px;
+    border-radius: 20px;
+}
